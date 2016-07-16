@@ -12,8 +12,8 @@
         -   [2.3文本选择](src/flight-manual/2.3文本选择.md)
         -   [2.4编辑和删除文本](src/flight-manual/2.4编辑和删除文本.md)
         -   [2.5查找替换](src/flight-manual/2.5查找替换.md)
+        -   [2.6片段](src/flight-manual/2.6片段.md)
     -   3.定制
-
     -   4.深入了解
 
     -   5.升级到1.0API
