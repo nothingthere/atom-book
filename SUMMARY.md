@@ -13,6 +13,7 @@
         -   [2.4编辑和删除文本](src/flight-manual/2.4编辑和删除文本.md)
         -   [2.5查找替换](src/flight-manual/2.5查找替换.md)
         -   [2.6片段](src/flight-manual/2.6片段.md)
+        -   [2.7自动补全](src/flight-manual/2.7自动补全.md)
     -   3.定制
     -   4.深入了解
 
