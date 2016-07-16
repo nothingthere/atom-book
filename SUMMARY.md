@@ -7,7 +7,10 @@
         -   [1.3基础](src/flight-manual/1.3基础.md)
 
     -   2.如何使用
-
+        -   [2.1包](src/flight-manual/2.1包.md)
+        -   [2.2文件内移动](src/flight-manual/2.2文件内移动.md)
+        -   [2.3选择]
+        -   [2.4编辑和删除]
     -   3.定制
 
     -   4.深入了解
@@ -18,4 +21,8 @@
 
     -   [sync-settings](src/plugins/sync-settings.md)
 
--   [快捷键记录](src/shortkeys.md)
+-   [常用快捷键](src/shortkeys.md)
+    ortkeys.md)
+        ortkeys.md)
+    d)
+            ortkeys.md)
