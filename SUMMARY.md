@@ -17,6 +17,7 @@
         -   [2.7自动补全](docs/flight-manual/2.7自动补全.md)
         -   [2.8折叠](docs/flight-manual/2.8折叠.md)
         -   [2.9分屏](docs/flight-manual/2.9分屏.md)
+        -   [2.10悬挂文件](docs/flight-manual/2.10悬挂文件.md)
 
     -   3.定制
     -   4.深入了解
