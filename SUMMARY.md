@@ -28,3 +28,5 @@
     -   [sync-settings](docs/plugins/sync-settings.md)
 
 -   [常用快捷键](docs/shortkeys.md)
+
+-   [使用感受](docs/使用感受.md)
