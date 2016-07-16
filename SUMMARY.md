@@ -9,7 +9,7 @@
     -   2.如何使用
         -   [2.1包](src/flight-manual/2.1包.md)
         -   [2.2文件内移动](src/flight-manual/2.2文件内移动.md)
-        -   [2.3选择]
+        -   [2.3文本选择](src/flight-manual/2.3文本选择.md)
         -   [2.4编辑和删除]
     -   3.定制
 
