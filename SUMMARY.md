@@ -31,6 +31,6 @@
 
     -   [sync-settings](docs/plugins/sync-settings.md)
 
+-   [CSON简介](docs/CSON简介.md)
 -   [常用快捷键](docs/shortkeys.md)
-
 -   [使用感受](docs/使用感受.md)
