@@ -21,7 +21,7 @@
         -   [2.11语法](docs/flight-manual/2.11语法.md)
         -   [2.12版本控制](docs/flight-manual/2.12版本控制.md)
         -   [2.13写作](docs/flight-manual/2.13写作.md)
-        -   [2.14定制基础](docs/flight-manual/2.14定制基础.md)
+        -   [2.14基本定制](docs/flight-manual/2.14基本定制.md)
 
     -   3.定制
     -   4.深入了解
