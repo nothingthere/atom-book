@@ -23,7 +23,7 @@
         -   [2.13写作](docs/flight-manual/2.13写作.md)
         -   [2.14基本定制](docs/flight-manual/2.14基本定制.md)
 
-    -   3.定制
+    -   3.Hacking Atom
     -   4.深入了解
     -   5.升级到1.0API
 
